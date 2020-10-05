@@ -4,6 +4,6 @@ Following __Relationships__ were applied ;
   * Contains - a
   * Has - a 
 <br/>
-Project contains a Command Line GUI output displaying __colors__ in Output.
+Project contains a Command Line GUI output displaying *colors* in Output.
 
 
